@@ -24,13 +24,5 @@ SEMFIRE works in cooperation with Tibco Spotfire to develop a visualisation mod 
 
 Information about the gitflow can be found [here](/documentation/git_flow.md)
 
-## Group members:
 
-1. Maja Linder - Scrum Master and developer
-2. Bardha Ahmeti- Product Owner and developer
-3. Astrid Berntsson - Developer
-4. Yuhan Li - Developer
-5. Mohammad Zandkarimi - Developer
-6. Navya Pulikandla Satyanarayanachetty - Developer
-7. Malik Hannan - Developer in early development
-8. Malik Waleed Mahboob - Developer in early development
+
